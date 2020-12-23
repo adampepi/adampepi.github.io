@@ -2,8 +2,7 @@
 output: html_document
 theme: yeti
 ---
-
-<br>
-<center>#**Curriculum Vitae**
-<br>
-###Here is my current C.V.
+ <center>
+  # Curriculum Vitae
+  </center>
+Here is my current C.V.

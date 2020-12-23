@@ -3,7 +3,7 @@ output: html_document
 theme: yeti
 ---
 
-<br>
-<center>#**Contact**
-<br>
-###Email: aapepi@ucdavis.edu
+ <center>
+  # Contact
+  </center>
+Email: aapepi@ucdavis.edu

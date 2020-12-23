@@ -3,6 +3,7 @@ output: html_document
 theme: yeti
 ---
 
-<br>
-<center>#**Teaching**
+<center>
+# Teaching
+</center>
 <br>
