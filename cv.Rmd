@@ -5,4 +5,6 @@ theme: yeti
  <center>
   # Curriculum Vitae
   </center>
-Here is my current C.V.
+Here is my current C.V.:
+
+<a href="adampepi.github.io/docs/apepi_cv 2020-10-3.pdf" target="_blank">PDF.</a>
