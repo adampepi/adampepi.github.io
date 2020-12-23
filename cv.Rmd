@@ -7,4 +7,4 @@ theme: yeti
   </center>
 Here is my current C.V.:
 
-<embed src="https://adampepi.github.io/docs/apepi_cv  2020-10-3.pdf" type="application/pdf" />
+<embed src="https://adampepi.github.io/docs/apepi_cv  2020-10-3.pdf" type="application/pdf" /> {width=800px}
