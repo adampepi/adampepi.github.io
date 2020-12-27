@@ -1,7 +1,7 @@
-name: "Adam Pepi -- Ecology"
+name: "Adam Pepi &#8211 Ecology"
 output_dir: "."
 navbar:
-  title: "Adam Pepi -- Ecology"
+  title: "Adam Pepi &#8211 Ecology"
   left:
     - text: "Home"
       href: index.html
