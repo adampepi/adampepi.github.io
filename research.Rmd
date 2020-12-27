@@ -7,7 +7,7 @@ theme: yeti
 ### Research
 
 </center>
-<div style= "float:right;position: relative; top: 0px;">
+<div style= "float:right;position: relative; top: 0px;padding:10px;">
 ![](pics/otc.jpg){width=400px}
 </div>
 I’m interested broadly in plant-insect population & community ecology, especially in the context of climate change. I also have an interest in the ecology and biological control of invasive insects.
