@@ -2,8 +2,18 @@
 output: html_document
 theme: yeti
 ---
-
+<br>
  <center>
-  # Contact
+  ### Contact
   </center>
+Adam Pepi
+
+Department of Entomology and Nematology
+
+University of California, Davis
+
+One Shields Ave
+
+Davis, CA, 95616
+
 Email: aapepi@ucdavis.edu

@@ -2,12 +2,16 @@
 output: html_document
 theme: yeti
 ---
+<br>
 <center>
-# Home
-![](pics/wooly bear lupine.jpeg){width=800px}
+### Home
+![](pics/wooly bear lupine.jpeg){width=1000px}
 
 </center>
 <br>
+<div style= "float:right;position: relative; top: -10px;">
+![](pics/adampepi.jpg){width=200px}
+</div>
 I’m a PhD Candidate in Ecology at UC Davis, in the Karban and Holyoak labs. I did my M.S. in the Elkinton lab at University of Massachusetts Amherst, and a Fulbright fellowship with Birchmoth at University of Tromsø and the Norwegian Institute for Nature Research. I’m currently an (informal) visiting scholar with Jenny Cory at Simon Fraser University and Judy Myers at University of British Columbia.
 
 I’m interested broadly in plant-insect population & community ecology, especially in the context of climate change. I also have an interest in the ecology and biological control of invasive insects.
@@ -15,8 +19,4 @@ I’m interested broadly in plant-insect population & community ecology, especia
 <br>
 
 
-![](pics/adampepi.jpg){width=200px}
-
-
-<br>
 
