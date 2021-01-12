@@ -1,12 +1,3 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EYLR0YFB0K"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EYLR0YFB0K');
-</script>
 ---
 output: html_document
 theme: yeti
@@ -45,6 +36,16 @@ Unpublished manuscripts (available upon request):
 
 
 *– Undergraduate coauthor; † – Graduate student coauthor; ‡ – Postdoctoral coauthor.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-187123577-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-187123577-1');
+</script>
 
 
 
