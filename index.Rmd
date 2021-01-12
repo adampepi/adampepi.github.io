@@ -1,11 +1,10 @@
 ---
 output: html_document
 theme: yeti
-title: Adam Pepi &#8211 Ecology
+title: Home
 ---
 <br>
-<center>
-### Home
+
 ![](pics/wooly bear lupine.jpeg){width=1000px}
 
 </center>

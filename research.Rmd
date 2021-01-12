@@ -4,10 +4,7 @@ theme: yeti
 title: Research
 ---
 <br>
-<center>
-### Research
 
-</center>
 <div style= "float:right;position: relative; top: 0px;padding:10px;">
 ![](pics/otc.jpg){width=400px}
 </div>

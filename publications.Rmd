@@ -5,10 +5,6 @@ title: Publications
 ---
 
 <br>
-  <center>
-  ### Publications
-  </center>
-  
   
 1. Karban, R., E. LoPresti‡, **A. Pepi** & P. Grof-Tisza‡. 2019. Induction of the  sticky plant defense syndrome in wild tobacco. __*Ecology*__, 100:e02746. https://doi.org/10.1002/ecy.2746
 
