@@ -1,6 +1,7 @@
 ---
 output: html_document
 theme: yeti
+title: Adam Pepi &#8211 Ecology
 ---
 <br>
 <center>

@@ -1,6 +1,7 @@
 ---
 output: html_document
 theme: yeti
+title: Research
 ---
 <br>
 <center>
