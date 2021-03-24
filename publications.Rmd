@@ -5,36 +5,36 @@ title: Publications
 ---
 
 <br>
+
+1.  Pan, V.,* **A. Pepi**, J. Goidell & R. Karban. 2021. Retention of green leaves not brown leaves increases spring cynipid diversity on large Valley Oaks. __*Arthropod-Plant Interactions*__. https://doi.org/10.1007/s11829-021-09815-7
   
-1. **Pepi, A.** & R. Karban. 2021. Effects of experimental watering but not warming on herbivory vary across a gradient of precipitation. __*Ecology & Evolution*__, Early View. https://doi.org/10.1002/ece3.7197
+2. **Pepi, A.** & R. Karban. 2021. Effects of experimental watering but not warming on herbivory vary across a gradient of precipitation. __*Ecology & Evolution*__, 00:1-8. https://doi.org/10.1002/ece3.7197
   
-2. Karban, R., E. LoPresti‡, **A. Pepi** & P. Grof-Tisza‡. 2019. Induction of the  sticky plant defense syndrome in wild tobacco. __*Ecology*__, 100:e02746. https://doi.org/10.1002/ecy.2746
+3. Karban, R., E. LoPresti‡, **A. Pepi** & P. Grof-Tisza‡. 2019. Induction of the  sticky plant defense syndrome in wild tobacco. __*Ecology*__, 100:e02746. https://doi.org/10.1002/ecy.2746
 
-3. Grof-Tisza, P.‡, **A. Pepi.**, M. Holyoak & R. Karban. 2019. Precipitation-dependent source-sink dynamics in a spatially structured population of an outbreaking caterpillar. __*Landscape Ecology*__, 34:1131-1143. https://doi.org/10.1007/s10980-019-00793-z
+4. Grof-Tisza, P.‡, **A. Pepi.**, M. Holyoak & R. Karban. 2019. Precipitation-dependent source-sink dynamics in a spatially structured population of an outbreaking caterpillar. __*Landscape Ecology*__, 34:1131-1143. https://doi.org/10.1007/s10980-019-00793-z
 
-4. Grof-Tisza, P.‡, & **A. Pepi**. 2019. Cannibalism of pupae by caterpillars of the Ranchman’s tiger moth, Arctia virginalis, (Lepidoptera: Erebidae). __*American Midland Naturalist*__, 181:139-142. https://doi.org/10.1674/0003-0031-181.1.139
+5. Grof-Tisza, P.‡, & **A. Pepi**. 2019. Cannibalism of pupae by caterpillars of the Ranchman’s tiger moth, Arctia virginalis, (Lepidoptera: Erebidae). __*American Midland Naturalist*__, 181:139-142. https://doi.org/10.1674/0003-0031-181.1.139
 
-5. Vindstad, O. P.‡, J. Jepsen, M. Ek†, **A. Pepi** & R. Ims. 2018. Can novel pest outbreaks drive ecosystem transitions in northern-boreal birch forest? __*Journal of Ecology*__, 107: 1141-1153. https://doi.org/10.1111/1365-2745.13093
+6. Vindstad, O. P.‡, J. Jepsen, M. Ek†, **A. Pepi** & R. Ims. 2018. Can novel pest outbreaks drive ecosystem transitions in northern-boreal birch forest? __*Journal of Ecology*__, 107: 1141-1153. https://doi.org/10.1111/1365-2745.13093
 
 <div style= "float:right;position: relative; top: 0px;padding:10px;">
 ![](pics/ecology_cover.png){width=200px}
 </div>
 
-6. **Pepi, A.**, P. Grof-Tisza‡, M. Holyoak & R. Karban. 2018. As temperature increases, predator attack rate is more important to survival than a smaller window of prey vulnerability. __*Ecology*__, 99:1584-1590. https://doi.org/10.1002/ecy.2356
+7. **Pepi, A.**, P. Grof-Tisza‡, M. Holyoak & R. Karban. 2018. As temperature increases, predator attack rate is more important to survival than a smaller window of prey vulnerability. __*Ecology*__, 99:1584-1590. https://doi.org/10.1002/ecy.2356
 
-7. **Pepi, A.**, O.P.L Vindstad‡, M. Ek† & J. Jepsen. 2017. Elevationally biased avian predation as a contributor to altitudinal distribution of eruptive geometrids in sub-arctic mountain birch forest. __*Ecological Entomology*__,42:430-448. https://doi.org/10.1111/een.12400
+8. **Pepi, A.**, O.P.L Vindstad‡, M. Ek† & J. Jepsen. 2017. Elevationally biased avian predation as a contributor to altitudinal distribution of eruptive geometrids in sub-arctic mountain birch forest. __*Ecological Entomology*__,42:430-448. https://doi.org/10.1111/een.12400
 
-8. **Pepi, A.**, H. Broadley† & J. Elkinton. 2016. Density-dependent effects of larval dispersal mediated by host plant quality on populations of an invasive insect. __*Oecologia*__ 182:499-509. Erratum 185:533-535. https://doi.org/10.1007/s00442-016-3689-z
+9. **Pepi, A.**, H. Broadley† & J. Elkinton. 2016. Density-dependent effects of larval dispersal mediated by host plant quality on populations of an invasive insect. __*Oecologia*__ 182:499-509. Erratum 185:533-535. https://doi.org/10.1007/s00442-016-3689-z
 
 Unpublished manuscripts (available upon request):
 
+1. **Pepi, A.**, M. Holyoak & R. Karban. Altered precipitation dynamics lead to a shift in herbivore dynamical regime. *Accepted*, __*Ecology Letters*__.
 
-1. Pan, V.,* **A. Pepi**, J. Goidell & R. Karban. Retention of green leaves not brown leaves increases spring cynipid diversity on large Valley Oaks. *Accepted*, __*Arthropod-Plant Interactions*__.
+2. **Pepi, A.**, & M. McMunn‡. Predator diversity and thermal niche complementarity attenuate indirect effects of warming on prey survival. *Accepted*, __*American Naturalist*__. Preprint: https://doi.org/10.1101/2020.09.29.319392
 
-2. **Pepi, A.**, M. Holyoak & R. Karban. Altered precipitation dynamics lead to a shift in herbivore dynamical regime. *In review*.
-
-3. **Pepi, A.**, & M. McMunn‡. Predator diversity and thermal niche complementarity attenuate indirect effects of warming on prey survival. *In review*. https://doi.org/10.1101/2020.09.29.319392
-
+3. **Pepi, A.**, V. Pan* & R. Karban.  Influence of delayed density and ultraviolet radiation on caterpillar granulovirus infection and mortality. __*bioRxiv*__, 2021.03.22.436482. https://doi.org/10.1101/2021.03.22.436482
 
 *– Undergraduate coauthor; † – Graduate student coauthor; ‡ – Postdoctoral coauthor.
 
