@@ -13,7 +13,7 @@ title: Home
 <div style= "float:right;position: relative; top: -10px; padding:10px;">
 ![](pics/adampepi.jpg){width=200px}
 </div>
-I’m a PhD Candidate in Ecology at UC Davis, in the [Karban](https://karban.wordpress.com/) and [Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/) labs. I did my M.S. in the [Elkinton](https://elkintonlab.wordpress.com/) lab at University of Massachusetts Amherst, and a Fulbright fellowship with [Birchmoth](http://www.birchmoth.no/) at University of Tromsø and the Norwegian Institute for Nature Research. I’m currently an (informal) visiting scholar with [Jenny Cory](https://www.sfu.ca/biology/people/profiles/jsc21.html) at Simon Fraser University and Judy Myers at University of British Columbia.
+I’m a PhD Candidate in Ecology at UC Davis, in the [Karban](https://karban.wordpress.com/) and [Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/) labs. I did my M.S. in the [Elkinton](https://elkintonlab.wordpress.com/) lab at University of Massachusetts Amherst, and a Fulbright fellowship with [Birchmoth](http://www.birchmoth.no/) at University of Tromsø and the Norwegian Institute for Nature Research. I’m currently an (informal) visiting scholar with [Jenny Cory](https://www.sfu.ca/biology/people/profiles/jsc21.html) at Simon Fraser University and Judy Myers at University of British Columbia. In Fall 2021 I will be starting a postdoc with [Lawrence Uricchio](https://uricchio.github.io/) at Tufts University.
 
 I’m interested broadly in plant-insect population & community ecology, especially in the context of climate change. I also have an interest in the ecology and biological control of invasive insects.
 
