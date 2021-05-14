@@ -10,7 +10,7 @@ title: Publications
 <a href="https://adampepi.github.io/docs/Pepi and McMunn 2021.pdf" target="_blank">PDF.</a>
 
 2. **Pepi, A.**, M. Holyoak & R. Karban. 2021. Altered precipitation dynamics lead to a shift in herbivore dynamical regime.  __*Ecology Letters*__,00:1-8. https://doi.org/10.1111/ele.13756
-<a href="https://adampepi.github.io/docs/Pepi et al 2021 ecology letters AM.pdf" target="_blank">PDF.</a>
+<a href="https://adampepi.github.io/docs/Pepi et al. 2021 ecology letters AM.pdf" target="_blank">PDF.</a>
 
 3.  Pan, V.,* **A. Pepi**, J. Goidell & R. Karban. 2021. Retention of green leaves not brown leaves increases spring cynipid diversity on large Valley Oaks. __*Arthropod-Plant Interactions*__. https://doi.org/10.1007/s11829-021-09815-7
   
