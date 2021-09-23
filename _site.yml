@@ -1,5 +1,10 @@
 name: "Adam Pepi &#8211 Ecology"
 output_dir: "."
+output:  
+
+  html_document:  
+    self_contained: no  
+    theme: journal
 navbar:
   title: "Adam Pepi &#8211 Ecology"
   left:

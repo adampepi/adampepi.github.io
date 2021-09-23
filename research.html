@@ -13,12 +13,22 @@
 
 <title>Research</title>
 
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -33,11 +43,6 @@
     </style>
 
 <style type="text/css">code{white-space: pre;}</style>
-<style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -50,32 +55,6 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
 
 
 
@@ -86,10 +65,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -106,40 +81,13 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -167,7 +115,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -179,7 +127,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -190,10 +138,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -205,7 +166,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -303,7 +263,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -313,13 +273,66 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<div style="float:right;position: relative; top: 0px;padding:10px;">
-<p><img src="pics/otc.jpg" width="400" /></p>
+<figure style="float:right;position: relative; top: 0px;padding:10px;width:400px">
+<img src="pics/otc.jpg">
+<figcaption>
+Open top chambers for a warming experiment at Bodega Marine Reserve, California.
+</figcaption>
+</figure>
+<p>My research interests are broad ranging in population and community ecology. However, much of my work focuses around themes of leveraging ecological theory, quantitative methods and field data to understand the effects of climate change and invasion on population and community dynamics. One of my core research aims is to develop new ecological theory to these ends. My research interests can be organized into a few general areas:</p>
+<p><strong>Climate change &amp; population dynamics</strong></p>
+<p>Climate change has broad ranging impacts on nature, from an ant that forages more quickly in warmer temperatures to droughts that transform plant communities. These different outcomes are causally connected through impacts on individuals and populations. However, the diversity and complexity of the natural world make it difficult to resolve causal connections and predict how climate change will affect ecological communities. Ecological theories developed about how geographic ranges are controlled, and how changes in populations are controlled by interactions such as competition, predation, and herbivory offer the basis to develop theory that is explicitly focused on understanding the potential effects of climate change.</p>
+<p>For example, populations are influenced by both a) biotic interactions such as competition and disease, caused by high population densities, and b) environmental conditions such as drought stress. The interplay between these two forces can result in a complex relationship between climate change and population dynamics. Using time series data collected over 35 years, I found that changing rainfall patterns in California interacted with disease dynamics in a population of caterpillars, resulting in a transition from non-cyclic to cyclic dynamics (1)⁠. Populations may also be differentially influenced by climate change depending on the current local climate. For example, based on range limit theory, I predicted that woolly bear caterpillar populations are more likely to be affected by climate change-induced droughts via host plant limitation in the southern part of the species range relative to their northern counterpart. Preliminary results from both observational and experimental studies suggest that droughts affect southern populations by reducing the food quality of caterpillars’ host plants. In contrast, northern populations are likely more limited by viral infection or insufficient warmth during the growing season.</p>
+<p>As part of my postdoctoral work in the Uricchio Lab at Tufts, I plan to examine how local environmental adaptation influences climate effects on population dynamics. This is an underdeveloped area of both eco-evolutionary theory and empirical work. Most existing ecological theory assumes that species have an invariant environmental niche across their range. However, this is an assumption we know is most likely violated: local environmental adaptation is probably common. If we assume that a species has the same environmental requirements (e.g., precipitation, temperature) across its range, the effect of climate change will be expected to <em>vary</em> across the range. For instance, the effects of climate warming might be positive at the northern edge (where it will be cooler), and negative and the southern edge (where it will be warmer). In contrast, if we assume that the species is adapted to its local environment, then the effect of climate variation would be expected to be <em>similar</em> across the range. I intend to test these ideas with North American butterflies, using landscape genomic methods and continental-scale citizen science population censuses. This project will also be in collaboration with Elizabeth Crone and Erik Dopman at Tufts University, and Leslie Ries at Georgetown University.</p>
+<div>
+<figure style="float:right; padding:10px;width:500px">
+<img src="pics/fig1.jpg">
+<figcaption>
+<small> Figure 1. Schematic diagram of community traits that inﬂuence the relative importance of direct versus indirect effects of warming on interactions between prey (blue) and predators (red). Large asymmetries in thermal niches will result in larger indirect effects of warming (a), whereas symmetric thermal niches will result in larger direct effects (b). Asymmetries in thermal responses between prey and predators and thus the relative magnitude of indirect versus direct effects depend on multiple aspects of the predator community thermal niche. Our results suggest that high diversity (c), narrow thermal niche breadth (d), correspondence between the community mean thermal optimum and prey thermal optimum (e), and an even predator species abundance distribution (f) will result in weaker indirect effects versus direct effects of warming. From Pepi and McMunn 2021, <em>Am. Nat.</em></small>
+</figcaption>
+</figure>
 </div>
-<p>I’m interested broadly in plant-insect population &amp; community ecology, especially in the context of climate change. I also have an interest in the ecology and biological control of invasive insects.</p>
-<p>In terms of the effects of climate change on populations and communities, I’m interested in 1. causes of geographic variation in climate effects on population dynamics, 2. effects of changing patterns of climate variation on population dynamics, 3. temperature effects on ectotherm predator-prey interactions.</p>
-<p>In terms of invasive insect biological control, I am interested in applying ecological theory to understand factors controlling invasive species dynamics, to aid in control efforts. Past biological control efforts suggest that not all species are amenable to natural enemy importation as a means of control, or that some natural enemies are effective controls and others are not.</p>
-<p>To address questions in these research areas, I use a combination of observational and experimental fieldwork, time series and statistical modelling, and mathematical and simulation models.</p>
+<p><strong>Temperature and predator-prey interactions</strong></p>
+<p>Research has shown that climate warming affects ectotherm metabolic rate (2)⁠, resulting in greater activity, growth, feeding, and attack rates with higher temperatures (3)⁠. This has the potential to change the outcomes of predator-prey interactions through relative effects of warming on predator and prey activity rates, growth rates, and attack rates, leading to strong indirect effects on prey survival of warming through changing interactions (4)⁠. I have investigated the effect of warming on predator-prey interactions that are dependent on life stage. An increase in warming leads to two opposing effects: the window at which prey are most vulnerable is reduced due to shortened development time, but predators increase their attack rates. In this situation, whether warming benefits predators or prey depends on predator-prey thermal asymmetries (5).</p>
+<p>I have also developed a theoretical model to examine temperature-dependent predator-prey interactions in multi-predator communities. Nearly all previous empirical work examining warming effects on predator-prey interactions has considered single predator-prey pairs, even though most prey species interact with multiple predator species. Using this model, I found that prey species interacting with multiple predators are less likely to experience strong asymmetries in thermal response rates (e.g., attack rate, growth rate) relative to predators, versus prey species interacting with fewer predators. This effect attenuates the indirect effects of warming due to predator-prey interactions on prey survival (6)⁠. This attenuation effect found in simulations depends on predator diversity, and thermal niche complementarity of predators, in which the thermal niches of predators are sufficiently different (i.e., low niche overlap; Figure 1). Several other aspects of the predator community thermal niche may influence the attenuating effect of predator diversity (see Figure 1).</p>
+<div style="float:right;position: relative; top: 0px;padding:10px;width:500px">
+<img src="pics/virus_figure.jpg">
+<figcaption>
+<small> Figure 2: Diagram of drivers affecting infection levels of Ranchman’s tiger moth (<em>Arctia virginalis</em>) on yellow bush lupine (<em>Lupinus arboreus</em>). Caterpillar density in the previous year increases infection levels in the current year, due to viral occlusion bodies left by cadavers. However, host plant chemistry might reduce infection in the current year, while ultraviolet radiation reduces infection in subsequent year by inactivating viral occlusion bodies. Artwork credit: Vincent Pan.</small>
+</figcaption>
+</div>
+<p><strong>Host-baculovirus dynamics</strong></p>
+<p>Insect viruses are key factors in the the dynamics of many insect populations, driving cycles of many forest pests(8)⁠. Beyond the basic tendency of many pathogens to drive cyclic dynamics, pathogens interact with a host of local factors that ultimately generate observed population dynamics. In line with this complexity, models of disease dynamics in Lepidoptera show that host-pathogen dynamics can vary greatly depending on multiple parameter values in models, such as those representing viral persistence, predation, population growth, and dispersal (9–11).</p>
+<p>I have been conducting research into the question of how spatial variation in population drivers affects host-baculovirus dynamics in Ranchman’s tiger moth (Arctia virginalis), using empirical research and mathematical modelling. At a broad scale, we have found that higher ultraviolet radiation results in lower infection severity and higher survival rate, likely due to infection with lower doses of virus, due to inactivation of virus by UV (Figure 2; 12)⁠.</p>
+<p>At a more local scale, we have found that caterpillars in wet habitat patches are infected at higher levels than caterpillars in dry patches, which could be driven by either differences between viral persistence in the environment, or differences in average population density. These differences in infection levels result in different cyclic dynamics between wet an dry patches, with dry patches having much higher amplitude oscillations (Pepi et al., unpublished). In continuing work, we are interested in determining the mechanisms for wet-dry site differences in dynamics, and developing theoretical models to help understand how dispersal linkages between patches affect host-pathogen dynamics.</p>
+<figure style="float:right;position: relative; top: 0px;padding:10px;width:400px">
+<img src="pics/adamnorway.png">
+<figcaption>
+Winter moth fieldwork in Troms, Norway. Picture credit: Jane Jepsen.
+</figcaption>
+</figure>
+<p><strong>Ecology &amp; management of invasive forest pests</strong></p>
+<p>Invasive forest insects have become an increasing problem in North America (13)⁠, particularly in the Northeastern states. For some species – such as the Asian long-horned beetle and spotted lanternfly– eradication is still the primary control method (14)⁠. Other species – such as emerald ash borer, hemlock wooly adelgid, gypsy moth, and winter moth – have become well established and other methods, such as biological control, are more appropriate. The effectiveness of biological control, through bio-pesticides (BT, viral isolates) or natural enemy importation, depends on an understanding of the determinants of pest population dynamics. I have investigated forces regulating winter moth populations in both the invasive and native range. I found that populations were controlled by host plant limitation and dispersal in the invasive range in New England (15)⁠, and by bird predation in the native range in Norway (16)⁠. This, along with other work, supported the potential efficacy of implementing biological control for winter moth, which has ultimately been successful in New England (17)⁠.</p>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal">
+<li><p>Pepi A, Holyoak M, Karban R. Altered precipitation dynamics lead to a shift in herbivore dynamical regime. Ecology Letters. 2021;00:1-8</p></li>
+<li><p>Gillooly JF, Brown JH, West GB, Savage VM, Charnov EL. Effects of size and temperature on metabolic rate. Science. 2001;293(5538):2248–51.</p></li>
+<li><p>Kingsolver JG. The well‐temperatured biologist. The American Naturalist. 2009;174(6):755–68.</p></li>
+<li><p>Dell AI, Pawar S, Savage VM. Temperature dependence of trophic interactions are driven by asymmetry of species responses and foraging strategy. Journal of Animal Ecology. 2014;83(1):70–84.</p></li>
+<li><p>Pepi A, Grof-Tisza P, Holyoak M, Karban R. As temperature increases, predator attack rate is more important to survival than a smaller window of prey vulnerability. Ecology. 2018;99(7):1584–90.</p></li>
+<li><p>Pepi A, McMunn M. Predator Diversity and Thermal Niche Complementarity Attenuate Indirect Effects of Warming on Prey Survival. The American Naturalist. 2021;198(1):000–000.</p></li>
+<li><p>Barton BT, Schmitz OJ. Experimental warming transforms multiple predator effects in a grassland food web. Ecology Letters. 2009;12(12):1317–25.</p></li>
+<li><p>Anderson RM, May RM. Infectious Diseases and Population Cycles of Forest Insects. Science. 1980;210(4470):658–61.</p></li>
+<li><p>Bjørnstad O, Robinet C, Liebhold AM. Geographic variation in North American gypsy moth cycles: subharmonics, generalist predators, and spatial coupling. Ecology. 2010;91(1):106–18.</p></li>
+<li><p>Dwyer G, Dushoff J, Elkinton JS, Levin SA. Pathogen-driven outbreaks in forest defoliators revisited: Building models from experimental data. American Naturalist. 2000;156(2):105–20.</p></li>
+<li><p>Fuller E, Elderd BD, Dwyer G. Pathogen persistence in the environment and insect-baculovirus interactions: Disease-density thresholds, epidemic burnout, and insect outbreaks. American Naturalist. 2012;179(3).</p></li>
+<li><p>Pepi A, Pan V, Karban R. Influence of delayed density and ultraviolet radiation on caterpillar granulovirus infection and mortality. bioRxiv. 2021 Jan 1;2021.03.22.436482.</p></li>
+<li><p>Brockerhoff EG, Liebhold AM. Ecology of forest insect invasions. Biological Invasions. 2017;19(11):3141–59.</p></li>
+<li><p>Brockerhoff EG, Liebhold AM, Richardson B, Suckling DM. Eradication of invasive forest insects: concepts, methods, costs and benefits. New Zealand Journal of Forestry Science 40 suppl: S117-S135. 2010;40(suppl):S117–35.</p></li>
+<li><p>Pepi A, Broadley HJ, Elkinton JS. Density-dependent effects of larval dispersal mediated by host plant quality on populations of an invasive insect. Oecologia. 2016;182(2).</p></li>
+<li><p>Pepi A, Vindstad OPL, Ek M, Jepsen JU. Elevationally biased avian predation as a contributor to the spatial distribution of geometrid moth outbreaks in sub-arctic mountain birch forest. Ecological Entomology. 2017;42(4).</p></li>
+<li><p>Elkinton JS, Boettner GH, Broadley HJ. Successful biological control of winter moth, Operophtera brumata, in the northeastern United States. Ecological Applications. 2021;31(5):e02326.</p></li>
+</ol>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-187123577-1"></script>
 <script>
@@ -357,7 +370,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
