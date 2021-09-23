@@ -12,7 +12,7 @@ title: Home
 <div style= "float:right;position: relative; top: -10px; padding:10px;">
 ![](pics/adampepi.jpg){width=200px}
 </div>
-I am currently a postdoctoral researcher in the [ Uricchio lab](https://uricchio.github.io/) at Tufts Universit. I did my PhD in Ecology at UC Davis, in the [Karban](https://karban.wordpress.com/) and [Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/) labs, my M.S. in the [Elkinton](https://elkintonlab.wordpress.com/) lab at University of Massachusetts Amherst, and a Fulbright fellowship with [Birchmoth](http://www.birchmoth.no/) at University of Tromsø and the Norwegian Institute for Nature Research. 
+I am currently a postdoctoral researcher in the [ Uricchio lab](https://uricchio.github.io/) at Tufts University. I did my PhD in Ecology at UC Davis, in the [Karban](https://karban.wordpress.com/) and [Holyoak](http://www.des.ucdavis.edu/faculty/holyoak/) labs, my M.S. in the [Elkinton](https://elkintonlab.wordpress.com/) lab at University of Massachusetts Amherst, and a Fulbright fellowship with [Birchmoth](http://www.birchmoth.no/) at University of Tromsø and the Norwegian Institute for Nature Research. 
 
 I’m interested broadly in plant-insect population & community ecology, especially in the context of climate change. I also have an interest in the ecology and biological control of invasive insects.
 
