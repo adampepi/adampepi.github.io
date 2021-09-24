@@ -6,7 +6,7 @@ title: Publications
 
 <br>
 
-1. McMunn, M.‡&**A. Pepi**. 2021. Predicted asymmetrical effects of warming on nocturnal and diurnal soil-dwelling ectotherms. *In press*, __*American Naturalist*__. 
+1. McMunn, M.‡ & **A. Pepi**. 2021. Predicted asymmetrical effects of warming on nocturnal and diurnal soil-dwelling ectotherms. *In press*, __*American Naturalist*__. 
 
 2. **Pepi, A.**, & M. McMunn‡. 2021. Predator diversity and thermal niche complementarity attenuate indirect effects of warming on prey survival. __*American Naturalist*__,198: 33-43. http://dx.doi.org/10.1086/714590 
 <a href="https://adampepi.github.io/docs/Pepi and McMunn 2021.pdf" target="_blank">PDF.</a>

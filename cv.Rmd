@@ -1,6 +1,6 @@
 ---
 output: html_document
-theme: yeti
+theme: journal
 title: Curriculum Vitae
 ---
 

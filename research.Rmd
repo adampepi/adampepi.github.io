@@ -1,6 +1,6 @@
 ---
 output: html_document
-theme: readable
+theme: journal
 title: Research
 ---
 <br>
