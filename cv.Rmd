@@ -8,7 +8,7 @@ title: Curriculum Vitae
 
 Here is my current C.V.:
 
-<embed src="https://adampepi.github.io/docs/apepi_cv  2021-9-21.pdf " width="1000px" height="800px"  type="application/pdf" /> 
+<embed src="https://adampepi.github.io/docs/apepi_cv  2022-01-06.pdf " width="1000px" height="800px"  type="application/pdf" /> 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-187123577-1"></script>

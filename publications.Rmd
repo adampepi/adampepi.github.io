@@ -6,7 +6,8 @@ title: Publications
 
 <br>
 
-1. McMunn, M.‡ & **A. Pepi**. 2021. Predicted asymmetrical effects of warming on nocturnal and diurnal soil-dwelling ectotherms. *In press*, __*American Naturalist*__. 
+1. McMunn, M.‡ & **A. Pepi**. 2022. Predicted asymmetrical effects of warming on nocturnal and diurnal soil-dwelling ectotherms. __*American Naturalist*__,199: 00-00. 
+<a href="https://adampepi.github.io/docs/McMunn and Pepi 2022.pdf" target="_blank">PDF.</a>
 
 2. **Pepi, A.**, & M. McMunn‡. 2021. Predator diversity and thermal niche complementarity attenuate indirect effects of warming on prey survival. __*American Naturalist*__,198: 33-43. http://dx.doi.org/10.1086/714590 
 <a href="https://adampepi.github.io/docs/Pepi and McMunn 2021.pdf" target="_blank">PDF.</a>
@@ -46,7 +47,11 @@ title: Publications
 
 Preprints:
 
-1. **Pepi, A.**, V. Pan* & R. Karban.  Influence of delayed density and ultraviolet radiation on caterpillar granulovirus infection and mortality. __*bioRxiv*__, 2021.03.22.436482. https://doi.org/10.1101/2021.03.22.436482
+1. **Pepi, A.**, V. Pan* & R. Karban.  Influence of delayed density and ultraviolet radiation on caterpillar granulovirus infection and mortality. __*bioRxiv*__: https://doi.org/10.1101/2021.03.22.436482
+
+2. **Pepi, A.**, T. Hayes† & K. Lyberger‡. Thermal asymmetries influence effects of warming on stage and size-dependent predator-prey interactions. __*bioRxiv*__: https://doi.org/10.1101/2021.12.03.470870
+
+3. **Pepi, A.**, P. Grof-Tisza‡, M. Holyoak & R. Karban. Hilltopping influences spatial dynamics of a patchy population of tiger moths. __*bioRxiv*__: https://doi.org/10.1101/2021.12.17.473236
 
 *– Undergraduate coauthor; † – Graduate student coauthor; ‡ – Postdoctoral coauthor.
 
