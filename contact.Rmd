@@ -8,15 +8,7 @@ title: Contact
 
 Adam Pepi
 
-Department of Biology
-
-Tufts University
-
-Robinson Hall
-
-Medford, MA 02155
-
-Email: adampepi@tufts.edu
+adampepi@gmail.com
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

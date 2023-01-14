@@ -6,54 +6,53 @@ title: Publications
 
 <br>
 
-1. McMunn, M.‡ & **A. Pepi**. 2022. Predicted asymmetrical effects of warming on nocturnal and diurnal soil-dwelling ectotherms. __*American Naturalist*__,199: 00-00. 
+
+1. **Pepi, A.**, W. Hemstrom, A. Dang, C. Beck & F. Beyerle. 2022. Comparing the roles of climate, predation and phylogeography in driving wing color variation in Ranchman’s tiger moth (Arctia virginalis). __*Biological Journal of the Linnean Society*__. https://doi.org/10.1093/biolinnean/blac138
+
+2. **Pepi, A.**, V. Pan & R. Karban. 2022. Influence of delayed density and ultraviolet radiation on caterpillar granulovirus infection & mortality.  __*Journal of Animal Ecology*__, 00:1-11, http://doi.org/10.1111/1365-2656.13803
+
+3. Pepi, A., P. Grof-Tisza, M. Holyoak & R. Karban. 2022. Hilltopping influences spatial dynamics of a patchy population of tiger moths. __*Proceeding of the Royal Society B*__, 289:20220505. https://doi.org/10.1098/rspb.2022.0505
+
+4. McMunn, M. & **A. Pepi**. 2022. Predicted asymmetrical effects of warming on nocturnal and diurnal soil-dwelling ectotherms. __*American Naturalist*__,199: 00-00. 
 <a href="https://adampepi.github.io/docs/McMunn and Pepi 2022.pdf" target="_blank">PDF.</a>
 
-2. **Pepi, A.**, & M. McMunn‡. 2021. Predator diversity and thermal niche complementarity attenuate indirect effects of warming on prey survival. __*American Naturalist*__,198: 33-43. http://dx.doi.org/10.1086/714590 
+5. **Pepi, A.**, & M. McMunn. 2021. Predator diversity and thermal niche complementarity attenuate indirect effects of warming on prey survival. __*American Naturalist*__,198: 33-43. http://dx.doi.org/10.1086/714590 
 <a href="https://adampepi.github.io/docs/Pepi and McMunn 2021.pdf" target="_blank">PDF.</a>
 
-3. **Pepi, A.**, M. Holyoak & R. Karban. 2021. Altered precipitation dynamics lead to a shift in herbivore dynamical regime.  __*Ecology Letters*__,00:1-8. https://doi.org/10.1111/ele.13756
+6. **Pepi, A.**, M. Holyoak & R. Karban. 2021. Altered precipitation dynamics lead to a shift in herbivore dynamical regime.  __*Ecology Letters*__,00:1-8. https://doi.org/10.1111/ele.13756
 <a href="https://adampepi.github.io/docs/Pepi et al. 2021 ecology letters AM.pdf" target="_blank">PDF.</a>
 
-4.  Pan, V.,* **A. Pepi**, J. Goidell & R. Karban. 2021. Retention of green leaves not brown leaves increases spring cynipid diversity on large Valley Oaks. __*Arthropod-Plant Interactions*__. https://doi.org/10.1007/s11829-021-09815-7
+7.  Pan, V.,* **A. Pepi**, J. Goidell & R. Karban. 2021. Retention of green leaves not brown leaves increases spring cynipid diversity on large Valley Oaks. __*Arthropod-Plant Interactions*__. https://doi.org/10.1007/s11829-021-09815-7
   
-5. **Pepi, A.** & R. Karban. 2021. Effects of experimental watering but not warming on herbivory vary across a gradient of precipitation. __*Ecology & Evolution*__, 00:1-8. https://doi.org/10.1002/ece3.7197
+8. **Pepi, A.** & R. Karban. 2021. Effects of experimental watering but not warming on herbivory vary across a gradient of precipitation. __*Ecology & Evolution*__, 00:1-8. https://doi.org/10.1002/ece3.7197
 <a href="https://adampepi.github.io/docs/Pepi & Karban 2021.pdf" target="_blank">PDF.</a>
   
-6. Karban, R., E. LoPresti‡, **A. Pepi** & P. Grof-Tisza‡. 2019. Induction of the  sticky plant defense syndrome in wild tobacco. __*Ecology*__, 100:e02746. https://doi.org/10.1002/ecy.2746
+9. Karban, R., E. LoPresti, **A. Pepi** & P. Grof-Tisza‡. 2019. Induction of the  sticky plant defense syndrome in wild tobacco. __*Ecology*__, 100:e02746. https://doi.org/10.1002/ecy.2746
 <a href="https://adampepi.github.io/docs/Karban et al. 2019.pdf" target="_blank">PDF.</a>
 
-7. Grof-Tisza, P.‡, **A. Pepi.**, M. Holyoak & R. Karban. 2019. Precipitation-dependent source-sink dynamics in a spatially structured population of an outbreaking caterpillar. __*Landscape Ecology*__, 34:1131-1143. https://doi.org/10.1007/s10980-019-00793-z
+10. Grof-Tisza, P., **A. Pepi.**, M. Holyoak & R. Karban. 2019. Precipitation-dependent source-sink dynamics in a spatially structured population of an outbreaking caterpillar. __*Landscape Ecology*__, 34:1131-1143. https://doi.org/10.1007/s10980-019-00793-z
 <a href="https://adampepi.github.io/docs/Grof-Tisza et al. 2019 AM.pdf" target="_blank">PDF.</a>
 
-8. Grof-Tisza, P.‡, & **A. Pepi**. 2019. Cannibalism of pupae by caterpillars of the Ranchman’s tiger moth, Arctia virginalis, (Lepidoptera: Erebidae). __*American Midland Naturalist*__, 181:139-142. https://doi.org/10.1674/0003-0031-181.1.139
+11. Grof-Tisza, P., & **A. Pepi**. 2019. Cannibalism of pupae by caterpillars of the Ranchman’s tiger moth, Arctia virginalis, (Lepidoptera: Erebidae). __*American Midland Naturalist*__, 181:139-142. https://doi.org/10.1674/0003-0031-181.1.139
 <a href="https://adampepi.github.io/docs/grof-tisza & pepi 2019.pdf" target="_blank">PDF.</a>
 
-9. Vindstad, O. P.‡, J. Jepsen, M. Ek†, **A. Pepi** & R. Ims. 2018. Can novel pest outbreaks drive ecosystem transitions in northern-boreal birch forest? __*Journal of Ecology*__, 107: 1141-1153. https://doi.org/10.1111/1365-2745.13093
+12. Vindstad, O. P., J. Jepsen, M. Ek†, **A. Pepi** & R. Ims. 2018. Can novel pest outbreaks drive ecosystem transitions in northern-boreal birch forest? __*Journal of Ecology*__, 107: 1141-1153. https://doi.org/10.1111/1365-2745.13093
 <a href="https://adampepi.github.io/docs/Vindstad et al. 2018 AM.pdf" target="_blank">PDF.</a>
 
 <div style= "float:right;position: relative; top: 0px;padding:10px;">
 ![](pics/ecology_cover.png){width=200px}
 </div>
 
-10. **Pepi, A.**, P. Grof-Tisza‡, M. Holyoak & R. Karban. 2018. As temperature increases, predator attack rate is more important to survival than a smaller window of prey vulnerability. __*Ecology*__, 99:1584-1590. https://doi.org/10.1002/ecy.2356
+13. **Pepi, A.**, P. Grof-Tisza, M. Holyoak & R. Karban. 2018. As temperature increases, predator attack rate is more important to survival than a smaller window of prey vulnerability. __*Ecology*__, 99:1584-1590. https://doi.org/10.1002/ecy.2356
 <a href="https://adampepi.github.io/docs/Pepi et al. 2018.pdf" target="_blank">PDF.</a>
 
-11. **Pepi, A.**, O.P.L Vindstad‡, M. Ek† & J. Jepsen. 2017. Elevationally biased avian predation as a contributor to altitudinal distribution of eruptive geometrids in sub-arctic mountain birch forest. __*Ecological Entomology*__,42:430-448. https://doi.org/10.1111/een.12400
+14. **Pepi, A.**, O.P.L Vindstad, M. Ek† & J. Jepsen. 2017. Elevationally biased avian predation as a contributor to altitudinal distribution of eruptive geometrids in sub-arctic mountain birch forest. __*Ecological Entomology*__,42:430-448. https://doi.org/10.1111/een.12400
 <a href="https://adampepi.github.io/docs/Pepi 2017 AM.pdf" target="_blank">PDF.</a>
 
-12. **Pepi, A.**, H. Broadley† & J. Elkinton. 2016. Density-dependent effects of larval dispersal mediated by host plant quality on populations of an invasive insect. __*Oecologia*__ 182:499-509. Erratum 185:533-535. https://doi.org/10.1007/s00442-016-3689-z
+15. **Pepi, A.**, H. Broadley & J. Elkinton. 2016. Density-dependent effects of larval dispersal mediated by host plant quality on populations of an invasive insect. __*Oecologia*__ 182:499-509. Erratum 185:533-535. https://doi.org/10.1007/s00442-016-3689-z
 <a href="https://adampepi.github.io/docs/Pepi et al. 2016 AM.pdf" target="_blank">PDF.</a>
 
-Preprints:
 
-1. **Pepi, A.**, V. Pan* & R. Karban.  Influence of delayed density and ultraviolet radiation on caterpillar granulovirus infection and mortality. __*bioRxiv*__: https://doi.org/10.1101/2021.03.22.436482
-
-2. **Pepi, A.**, T. Hayes† & K. Lyberger‡. Thermal asymmetries influence effects of warming on stage and size-dependent predator-prey interactions. __*bioRxiv*__: https://doi.org/10.1101/2021.12.03.470870
-
-3. **Pepi, A.**, P. Grof-Tisza‡, M. Holyoak & R. Karban. Hilltopping influences spatial dynamics of a patchy population of tiger moths. __*bioRxiv*__: https://doi.org/10.1101/2021.12.17.473236
-
-*– Undergraduate coauthor; † – Graduate student coauthor; ‡ – Postdoctoral coauthor.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-187123577-1"></script>
